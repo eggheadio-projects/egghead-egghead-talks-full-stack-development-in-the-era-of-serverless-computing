@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/notes">DEPRECATED ⚠️ This notes repo has been moved to eggheadio/notes!</a></h1>
+
 # [egghead Talks: Full Stack Development in the Era of Serverless Computing](https://egghead.io/lessons/egghead-egghead-talks-full-stack-development-in-the-era-of-serverless-computing)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
